@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hola, soy Angel León</h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong> • Experto en <strong>Ionic, Angular y TypeScript</strong> • Diseñador en progreso  
+  <strong>Frontend Developer</strong> • Experto en <strong>Angular, Ionic y TypeScript</strong>  
 </p>
 
 <p align="center">
   Construyo interfaces modernas, rápidas y funcionales.  
-  Actualmente desarrollo kioscos interactivos, aplicaciones web y herramientas impulsadas por IA.
+  Desarrollo kioscos interactivos, aplicaciones web y proyectos impulsados por IA.
 </p>
 
 ---
 
 ## 🔮 Sobre mí
-- 💻 Tengo +3 años creando aplicaciones web y kioscos para auto-compras.  
-- 🧩 Me enfoco en código modular, mantenible y con buenas prácticas.  
-- 🎨 También diseño interfaces usando Figma y amo el estilo clásico + minimal.  
-- 🚀 Estoy construyendo proyectos propios como **IALingo** y **reporter.ia**.
+- 💻 +4 años creando aplicaciones web y kioscos para auto-compras.  
+- 🧩 Enfocado en código modular, mantenible y con buenas prácticas.  
+- 🎨 Diseño interfaces usando Figma; me gustan los estilos clásicos, limpios y con buen contraste.  
+- 🚀 Actualmente trabajando en proyectos como **IALingo** y **reporter.ia**.
 
 ---
 
@@ -27,29 +27,30 @@
 ---
 
 ## 🧪 Proyectos Destacados
-### 🟣 IALingo
-Aprende inglés conversando con chatbots inteligentes basados en contextos personalizados.
 
-### 🟠 reporter.ia
-Aplicación web que resume noticias en tiempo real usando LLMs. Diseño limpio, moderno y eficiente.
+### 🟣 IALingo  
+App para aprender inglés conversando con chatbots inteligentes basados en contextos personalizados.
 
-### 🟢 Kioscos Interactivos
-Creador del sistema de diseño y librería Angular utilizada en la construcción de kioscos para auto-compras en Colombia.
+### 🟠 reporter.ia  
+Web que resume noticias en tiempo real usando LLMs. Diseño moderno y eficiente.
+
+### 🟢 Kioscos Interactivos  
+Creador del sistema de diseño Angular utilizado para construir kioscos de auto-compra en producción.
 
 ---
 
 ## 📊 Mis estadísticas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSER&show_icons=true&theme=synthwave"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSER&layout=compact&theme=synthwave"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elonlegan&show_icons=true&theme=synthwave"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonlegan&layout=compact&theme=synthwave"/>
 </p>
 
 ---
 
 ## 📫 Contáctame
-- LinkedIn: (tu enlace)
-- Portafolio: (tu web)
-- Email: (tu correo)
+- 🌐 Web: **https://elonlegan.github.io**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/elonlegan/**
+- 📧 Email: <a href="mailto:elonlegan@gmail.com">elonlegan@gmail.com</a>
 
 ---
 
